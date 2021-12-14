@@ -1,2 +1,2 @@
 # akshay94659.github.io
-Its my Digital Cv
+This is my Digital Resume. For more info you can check https://akshay94659.github.io/
